@@ -1,0 +1,12 @@
+ANOTAÇÕES IMPORTANTES
+======================
+
+
+Instalar driver de conexão com o mongoDB -> npm install mongodb --save
+
+
+
+
+
+
+
