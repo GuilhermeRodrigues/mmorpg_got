@@ -5,6 +5,8 @@ ANOTAÇÕES IMPORTANTES
 Instalar driver de conexão com o mongoDB -> npm install mongodb --save
 
 
+Instalar Express Session -> npm install express-session --save
+
 
 
 
